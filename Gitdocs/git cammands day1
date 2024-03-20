@@ -1,17 +1,16 @@
-GIT HUB INSTALLATIO
-1, create new directory in /root and cd directory name
-2, git --version (to check available git version)
-3, git init (to initialize the git at present location and you will see .git hidden file)
+create new directory in /root and cd directory name
+git --version (to check available git version)
+git init (to initialize the git at present location and you will see .git hidden file)
 git config --global user.email “abc.yz@gmail.com”
 git config –global user.name ”johnny”
-4, git remote add origin repositoryurl (to initialize git repository)
-5, git status (to check the status of git)
-6, git add filename (to add/initial a file for git push (indexing)) 
-7, git commit -m "any message" (to initial commit a files for git push (staging))
-8, git push -u origin master (to push files (uploading))
-9, for testing purpose modify pushed files and check the git status
-10, git add -A (to add all files at a time)
-11, git branch name (to create a new branch)
-12, git checkout name (to switch the branch)
-13, git branch (to check available branches)
+git remote add origin repositoryurl (to initialize git repository)
+git status (to check the status of git)
+git add filename (to add/initial a file for git push (indexing)) 
+git commit -m "any message" (to initial commit a files for git push (staging))
+git push -u origin master (to push files (uploading))
+git push
+git add -A (to add all files at a time)
+git branch name (to create a new branch)
+git checkout name (to switch the branch)
+git branch (to check available branches)
 

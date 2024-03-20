@@ -1,1 +1,1 @@
-
+git checkout brnachname -- <path to folder you want to copy from one brnach to other>
